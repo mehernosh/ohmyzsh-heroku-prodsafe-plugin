@@ -5,6 +5,7 @@ function prodtab() {
 }
 
 function tab-reset() {
+    trap - INT EXIT
     NAME="Default"
     echo -e "\033]6;1;bg;*;default\a"    
     echo -e "\033]50;SetProfile=$NAME\a"
