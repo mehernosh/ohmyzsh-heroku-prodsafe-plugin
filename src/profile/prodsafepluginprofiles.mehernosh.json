@@ -3,7 +3,6 @@
     {
       "Working Directory" : "\/Users",
       "Prompt Before Closing 2" : false,
-      "Dynamic Profile Filename" : "\/Users\/mehernosh\/Library\/Application Support\/iTerm2\/DynamicProfiles\/prodsafepluginprofiles.mehernosh.json",
       "Selected Text Color" : {
         "Green Component" : "0",
         "Blue Component" : "0",
@@ -264,9 +263,7 @@
       },
       "Send Code When Idle" : false,
       "ASCII Anti Aliased" : true,
-      "Tags" : [
-        "Dynamic"
-      ],
+      "Tags" : [],
       "Ansi 9 Color" : {
         "Green Component" : "0.1607843",
         "Blue Component" : "0.1607843",
