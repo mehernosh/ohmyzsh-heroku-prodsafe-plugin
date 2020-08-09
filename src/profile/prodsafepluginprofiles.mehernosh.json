@@ -272,9 +272,11 @@
       "Use Bold Font" : true,
       "Silence Bell" : false,
       "Ansi 12 Color" : {
-        "Green Component" : "0.6235294",
-        "Blue Component" : "0.8117647",
-        "Red Component" : "0.4470588"
+        "Red Component" : 0.6201934814453125,
+        "Color Space" : "sRGB",
+        "Blue Component" : 1,
+        "Alpha Component" : 1,
+        "Green Component" : 0.81719139944787611
       },
       "Window Type" : 0,
       "Use Bright Bold" : true,
@@ -300,11 +302,11 @@
       "Guid" : "mehernosh.prodsafe",
       "Idle Code" : 0,
       "Ansi 10 Color" : {
-        "Red Component" : 0.26323896747329101,
+        "Red Component" : 0.85973197907277232,
         "Color Space" : "sRGB",
-        "Blue Component" : 0.20615206519141793,
+        "Blue Component" : 0.6972808837890625,
         "Alpha Component" : 1,
-        "Green Component" : 0.312530517578125
+        "Green Component" : 1
       },
       "Ansi 8 Color" : {
         "Green Component" : "0.3411765",
@@ -370,9 +372,11 @@
       ],
       "Non Ascii Font" : "Monaco 12",
       "Ansi 13 Color" : {
-        "Green Component" : "0.4980392",
-        "Blue Component" : "0.6588235",
-        "Red Component" : "0.6784314"
+        "Red Component" : 1,
+        "Color Space" : "sRGB",
+        "Blue Component" : 0.96813625928089975,
+        "Alpha Component" : 1,
+        "Green Component" : 0.7572174072265625
       },
       "Columns" : 80,
       "Visual Bell" : true,
